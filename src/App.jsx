@@ -1,7 +1,9 @@
 import "./App.css"; // Assuming you will create a separate CSS file for styles
+import PartnershipPlatform from "./components/PartnershipPlatform";
 
 const App = () => {
   return (
+    <>
     <div className="m-4 bg-white rounded-3xl overflow-hidden h-screen">
       <div className="navbar !p-8">
         <div className="logo">
@@ -73,6 +75,10 @@ const App = () => {
         </div>
       </div>
     </div>
+
+    <PartnershipPlatform />
+    
+    </>
   );
 };
 
