@@ -9,28 +9,28 @@ function Cards() {
       name: "Meta",
       title: "Meta Agency Accounts",
       description:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit reiciendis veniam hic, alias commodi praesentium minus in assumenda,animi repellat neque adipisci nostrum consequatur earum deserunt  voluptatibus accusantium omnis quos",
+        "Unlock the full potential of your brand wiht Meta advertising, reaching billions of people across Facebook, Instagram, Whatsapp and more.",
     },
     {
       logo: <FaTiktok className="text-black bg-red-500 rounded-md " size="30px"/>,
       name: "TikTok",
       title: "TikTok Agency Accounts",
       description:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit reiciendis veniam hic, alias commodi praesentium minus in assumenda,animi repellat neque adipisci nostrum consequatur earum deserunt  voluptatibus accusantium omnis quos",
+        "Captivate and engage a global audience with our cutting-edge advertising solutions on the vibrant and dynamic platform of TikTok.",
     },
     {
       logo: <FaGoogle color="blue" />,
       name: "Google",
       title: "Google Agency Accounts",
       description:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit reiciendis veniam hic, alias commodi praesentium minus in assumenda,animi repellat neque adipisci nostrum consequatur earum deserunt  voluptatibus accusantium omnis quos",
+        "Harness the power of Google's vast network and maximize your brands online visibility with our expertly crafted advertising campaigns, tailored to reach your target audience effectively.",
     },
     {
       logo: <FaSnapchatGhost className="text-white bg-yellow-300 rounded-md " size="30px"/>,
       name: "Snapchat",
       title: "Snapchat Agency Accounts",
       description:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit reiciendis veniam hic, alias commodi praesentium minus in assumenda,animi repellat neque adipisci nostrum consequatur earum deserunt  voluptatibus accusantium omnis quos",
+        "Elevate your brand's presence and connect with a diverse, youthfull audience through our innovative advertising strategies on SnapChat.",
     },
   ];
 
